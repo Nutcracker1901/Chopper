@@ -1,0 +1,4 @@
+# Starting compiling Unity.ProBuilder.Csg.dll
+C:\Program Files\Unity\2020.3.22f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-a24b474aedaf2614a81caa202789e7c7
+# Starting compiling Parabox.CSG.Demo.dll
+C:\Program Files\Unity\2020.3.22f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-5651274d804cfea47a2c776a5616d731
